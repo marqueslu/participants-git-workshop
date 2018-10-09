@@ -15,7 +15,7 @@ git clone https://github.com/marqueslu/participants-git-workshop.git
 
 Para contribuir, é necessário executar um fork do projeto e executar o procedimento listado a na sessão configuração. Porém, agora a url irá referenciar o fork que esta em seu repositório.
 
-** Obs. Inclua as suas alterações em uma nova branch para ser aprovada no pull request. **
+**Obs. Inclua as suas alterações em uma nova branch para ser aprovada no pull request.**
 
 Para incluir uma breve descrição sobre você, é necessário seguir os padrões abaixo:
 
